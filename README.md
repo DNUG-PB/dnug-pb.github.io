@@ -5,6 +5,10 @@
 
 [Anmelden über unsere Meetup-Gruppe](https://www.meetup.com/de-DE/net-user-group-paderborn/)
 
+## 15. Meetup am 13.11.2024
+
+Wer gerne einen Vortrag halten möchte, kann sich einfach bei uns melden!
+
 ## 14. Meetup am 03.09.2024
 
 - AI development with .net and semantic kernel (Rafael Pazos Rodriguez, Microsoft)
