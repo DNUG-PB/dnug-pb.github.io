@@ -11,7 +11,7 @@ Wer gerne einen Vortrag halten möchte, kann sich einfach bei uns melden!
 
 ## 14. Meetup am 03.09.2024
 
-- AI development with .net and semantic kernel (Rafael Pazos Rodriguez, Microsoft)
+- AI development with .net and semantic kernel (Rafael Pazos Rodriguez, Microsoft), [slides](/assets/slides/Meetup_14/LocalLlmDevelopmentWithSemanticKernel.pdf)
 - Refactoring (Stephanie Behrent, OPTANO), [slides](/assets/slides/Meetup_14/Refactoring.pdf)
 
 ## 13. Meetup am 19.03.2024
