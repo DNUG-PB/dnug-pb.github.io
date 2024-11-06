@@ -9,6 +9,10 @@
 
 Wer gerne einen Vortrag halten möchte, kann sich einfach bei uns melden!
 
+- Change it - don't break it. Wie ändere ich abwärtskompatibel (Carsten Igel, dSpace)
+
+Semantische Versionierung ist in der heutigen Zeit das Grundgerüst vieler APIs. Dies wird meist auf die rein äußere API zurückgeführt. Welche Möglichkeiten, hier einen Fokus zu finden, gibt es? Welche Stolperfallen gibt es hier? Worauf ist hierbei noch zu achten und warum hat C# hier ein Problem?
+
 ## 14. Meetup am 03.09.2024
 
 - AI development with .net and semantic kernel (Rafael Pazos Rodriguez, Microsoft), [slides](/assets/slides/Meetup_14/LocalLlmDevelopmentWithSemanticKernel.pdf)
