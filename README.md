@@ -5,9 +5,17 @@
 
 [Anmelden über unsere Meetup-Gruppe](https://www.meetup.com/de-DE/net-user-group-paderborn/)
 
-## 15. Meetup am 13.11.2024
+## 17. Meetup am 24.06.2025
 
-Wer gerne einen Vortrag halten möchte, kann sich einfach bei uns melden!
+[Anmeldung](https://www.meetup.com/net-user-group-paderborn/events/306130963/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
+Meldet euch gerne bei uns, wenn ihr einen Vortrag halten möchtet.
+
+## 16. Meetup am 11.02.2025
+
+- Code that codes (nah, not AI - just source code generators) (Daniel Fischer, OPTANO) [code examples](https://github.com/developerdna/DNUG.SourceGenerators)
+
+
+## 15. Meetup am 13.11.2024
 
 - Change it - don't break it. Wie ändere ich abwärtskompatibel (Carsten Igel, dSpace)
 
