@@ -5,6 +5,14 @@
 
 [Anmelden über unsere Meetup-Gruppe](https://www.meetup.com/de-DE/net-user-group-paderborn/)
 
+## 19. Meetup am 25.11.2025
+
+Meldet euch gerne bei uns, wenn ihr einen Vortrag halten möchtet.
+
+## 18. Meetup am 23.09.2025
+
+Meldet euch gerne bei uns, wenn ihr einen Vortrag halten möchtet.
+
 ## 17. Meetup am 24.06.2025
 
 [Anmeldung](https://www.meetup.com/net-user-group-paderborn/events/306130963/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
