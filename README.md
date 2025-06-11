@@ -8,7 +8,10 @@
 ## 17. Meetup am 24.06.2025
 
 [Anmeldung](https://www.meetup.com/net-user-group-paderborn/events/306130963/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
-Meldet euch gerne bei uns, wenn ihr einen Vortrag halten möchtet.
+
+- Code-Revolution: Wie GitHub Copilot das Programmieren neu erfindet (Simon Keßler, Syngenta)
+
+Dieser Vortrag bietet eine Einführung in die Welt von GitHub Copilot, einem KI-gestützen Assistenten, der den Programmieralltag verändert. Der Vortrag beleuchtet die aktuellen Fähigkeiten von Copilot, wirft einen Blick auf zukünftige Entwicklungen und diskutiert gleichzeitig die Grenzen dieser Technologie, um ein realistisches Bild der "Code-Revolution" zu zeichnen.
 
 ## 16. Meetup am 11.02.2025
 
