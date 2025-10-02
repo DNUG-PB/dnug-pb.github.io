@@ -11,7 +11,9 @@ Meldet euch gerne bei uns, wenn ihr einen Vortrag halten möchtet.
 
 ## 18. Meetup am 23.09.2025
 
-Meldet euch gerne bei uns, wenn ihr einen Vortrag halten möchtet.
+- „Make It So, But Smarter“ – Gemeinsam herausfinden, wie JetBrains AI beim Coden wirklich hilft (Dr. Clara Lüders) [slides](/assets/slides/Meetup_18/MakeItSoButSmarter.pdf)
+
+Dieser Vortrag richtet sich an Entwickler:innen, die neugierig darauf sind, wie sich JetBrains AI sinnvoll in den Entwicklungsprozess integrieren lässt. Anhand konkreter Beispiele und Live-Demos wird gemeinsam erkundet, welche Arten von Prompts zu brauchbaren Ergebnissen führen, wo die Grenzen der Modelle liegen und wie man typische Fehler vermeidet. Ziel ist es, ein besseres Verständnis für die Funktionsweise von LLMs zu gewinnen – und herauszufinden, wie man sie dazu bringt, genau das zu tun, was man braucht.
 
 ## 17. Meetup am 24.06.2025
 
