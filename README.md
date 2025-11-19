@@ -5,13 +5,15 @@
 
 [Anmelden über unsere Meetup-Gruppe](https://www.meetup.com/de-DE/net-user-group-paderborn/)
 
-## 19. Meetup am 25.11.2025
+## 19. Meetup am 18.11.2025
 
-Meldet euch gerne bei uns, wenn ihr einen Vortrag halten möchtet.
+- „XAI: Explainable AI“ (Dr. Sven Flake, paiqo)
+
+XAI: Explainable AI oder Erklärbare KI. Sie beantwortet die Frage: "Warum macht das Ding das!?" Das Thema umfasst eine Spanne von "längst erforscht" bis "unentdecktes Land". An den Beispielen der Demand Forecasts, der mathematischen Optimierung und der LLMs verschaffen wir uns einen Überblick über Ansätze und Schwierigkeiten der Erklärbarkeit. (Kann Spuren von Python enthalten)
 
 ## 18. Meetup am 23.09.2025
 
-- „Make It So, But Smarter“ – Gemeinsam herausfinden, wie JetBrains AI beim Coden wirklich hilft (Dr. Clara Lüders) [slides](assets/slides/Meetup_18/MakeItSoButSmarter.pdf)
+- „Make It So, But Smarter“ – Gemeinsam herausfinden, wie JetBrains AI beim Coden wirklich hilft (Dr. Clara Lüders, OPTANO) [slides](assets/slides/Meetup_18/MakeItSoButSmarter.pdf)
 
 Dieser Vortrag richtet sich an Entwickler:innen, die neugierig darauf sind, wie sich JetBrains AI sinnvoll in den Entwicklungsprozess integrieren lässt. Anhand konkreter Beispiele und Live-Demos wird gemeinsam erkundet, welche Arten von Prompts zu brauchbaren Ergebnissen führen, wo die Grenzen der Modelle liegen und wie man typische Fehler vermeidet. Ziel ist es, ein besseres Verständnis für die Funktionsweise von LLMs zu gewinnen – und herauszufinden, wie man sie dazu bringt, genau das zu tun, was man braucht.
 
