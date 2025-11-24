@@ -5,9 +5,11 @@
 
 [Anmelden über unsere Meetup-Gruppe](https://www.meetup.com/de-DE/net-user-group-paderborn/)
 
+
+
 ## 19. Meetup am 18.11.2025
 
-- „XAI: Explainable AI“ (Dr. Sven Flake, paiqo)
+- „XAI: Explainable AI“ (Dr. Sven Flake, paiqo) [slides](assets/slides/Meetup_19/XAI.pdf)
 
 XAI: Explainable AI oder Erklärbare KI. Sie beantwortet die Frage: "Warum macht das Ding das!?" Das Thema umfasst eine Spanne von "längst erforscht" bis "unentdecktes Land". An den Beispielen der Demand Forecasts, der mathematischen Optimierung und der LLMs verschaffen wir uns einen Überblick über Ansätze und Schwierigkeiten der Erklärbarkeit. (Kann Spuren von Python enthalten)
 
